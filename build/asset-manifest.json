@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ChrisRDavila/help-queue-redux.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/ChrisRDavila/help-queue-redux.git/static/js/main.6ae25c1a.chunk.js",
+    "main.js.map": "/ChrisRDavila/help-queue-redux.git/static/js/main.6ae25c1a.chunk.js.map",
+    "runtime-main.js": "/ChrisRDavila/help-queue-redux.git/static/js/runtime-main.d7d90051.js",
+    "runtime-main.js.map": "/ChrisRDavila/help-queue-redux.git/static/js/runtime-main.d7d90051.js.map",
+    "static/js/2.7dad1d6a.chunk.js": "/ChrisRDavila/help-queue-redux.git/static/js/2.7dad1d6a.chunk.js",
+    "static/js/2.7dad1d6a.chunk.js.map": "/ChrisRDavila/help-queue-redux.git/static/js/2.7dad1d6a.chunk.js.map",
+    "index.html": "/ChrisRDavila/help-queue-redux.git/index.html",
+    "precache-manifest.cf739adcf114dd9359e0157faa608356.js": "/ChrisRDavila/help-queue-redux.git/precache-manifest.cf739adcf114dd9359e0157faa608356.js",
+    "service-worker.js": "/ChrisRDavila/help-queue-redux.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/ChrisRDavila/help-queue-redux.git/static/css/main.5ecd60fb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7d90051.js",
+    "static/js/2.7dad1d6a.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.6ae25c1a.chunk.js"
+  ]
+}
