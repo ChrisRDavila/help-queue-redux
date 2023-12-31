@@ -1,4 +1,6 @@
-## What is this?
+## Help-queue-redux
+
+example repo with same help-queue using basic redux to handle state
 ----
 
 This is a completed example project called "Help Queue" that demonstrates how to use React and Redux from the LearnHowToProgram.com [Week 3: React with Redux coursework](https://www.learnhowtoprogram.com/react/react-with-redux). 
